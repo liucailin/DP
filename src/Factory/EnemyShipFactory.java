@@ -1,3 +1,4 @@
+package Factory;
 /*
  * Factory Pattern
  * 1. Factory method
